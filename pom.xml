@@ -4,7 +4,7 @@
 
     <groupId>zss</groupId>
     <artifactId>tool.cxf</artifactId>
-    <version>2018.05.02-SNAPSHOT</version>
+    <version>2018.05.02</version>
     <packaging>jar</packaging>
 
     <name>tool.cxf</name>
